@@ -16,6 +16,12 @@ img{
     max-width: 100%;
 }
 
+.container{
+    padding: 0 20px;
+    margin: 0 auto;
+    
+}
+
 img[src$=".jpg"]{
     border-radius: 4px;
 }
