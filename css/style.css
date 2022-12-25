@@ -3,6 +3,7 @@
 
 /*home*/
 @import "./home/introducao.css";
+@import "./home/seguros.css";
 
 /* utilidades*/
 @import "./utilidades/utilidades.css";
@@ -20,3 +21,5 @@
 
 /*depoimento */
 @import "/css/depoimento/depoimento.css";
+
+
